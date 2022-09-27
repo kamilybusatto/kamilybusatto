@@ -1,0 +1,6 @@
+# sobre mim
+
+- 👋 meu email é almeida.kamily@escola.pr.gov.br
+- 👀 no momento estou fazendo um curso html ...
+- 🌱 eu estou aprendendo a programar recentemente ...
+
